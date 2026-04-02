@@ -1,0 +1,14 @@
+# Development
+.claude/
+.gemini/
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*.bak.*
+*~
