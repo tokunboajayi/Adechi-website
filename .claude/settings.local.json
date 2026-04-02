@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find \"c:\\\\Users\\\\olato\\\\OneDrive\\\\Documents\\\\Adechi website\\\\products\" -name \"*.html\" -exec wc -l {} +)"
+    ]
+  }
+}
